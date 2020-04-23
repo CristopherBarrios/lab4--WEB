@@ -5,10 +5,11 @@ body{
 	background: rgb(255,211,143);
 	position: relative;
 	top: 150px;
-	left: 400px;
+	left: 370px;
 	width: 400px;
 	height: 300px;
 	border:10px solid #000;
+	border-radius:20px;
 }
 .Relleno{
 	background-color:rgb(254,149,248);
@@ -18,6 +19,7 @@ body{
 	width: 350px;
 	height: 250px;
 	left: 25px;
+	border-radius:20px;
 }
 .punto1{
      top:10px;
@@ -65,7 +67,7 @@ body{
 .Cara{
 	border-radius:0px 0px 100px 95px;
 	position: relative;
-	top:-130px;
+	top:-160px;
     right: -200px;
 	width:250px;
 	height: 200px;
@@ -134,4 +136,369 @@ body{
 	right:-80px;
 	width: 100px;
 	height: 50px;
+}
+.BocaIzquierdo{
+	border-radius:15px;
+	background: rgb(165,165,165);
+	top:-5px;
+	position: relative;
+	right:-50px;
+	width: 40px;
+	height: 40px;
+}
+.BocaDerecho{
+	border-radius:15px;
+	background: rgb(165,165,165);
+	top:-45px;
+	position: relative;
+	right:-15px;
+	width: 40px;
+	height: 40px;
+}
+.mmpatas{
+	background: rgb(165,165,165);
+	width: 40px;
+	height: 40px;
+	border-radius:20px;
+	border:10px solid #000;
+}
+.pata1{
+	position: relative;
+	top: -350px;
+	left: -245px;
+}
+.pata2{
+	position: relative;
+	top: -410px;
+	left: -160px;
+}
+.pata3{
+	position: relative;
+	top: -470px;
+	left: 30px;
+}
+.pata4{
+	position: relative;
+	top: -530px;
+	left: 130px;
+}
+.arco{
+	width: 100px;
+	height: 55px;
+	border-radius:5px;
+	position: relative;
+	top: -890px;
+	left: -344px;
+}
+.arco2{
+	width: 100px;
+	height: 55px;
+	border-radius:5px;
+	position: relative;
+	top: -1240px;
+	left: -440px;
+}
+.arco3{
+	width: 100px;
+	height: 55px;
+	border-radius:5px;
+	position: relative;
+	top: -1550px;
+	left: -536px;
+}
+.arco4{
+	width: 100px;
+	height: 55px;
+	border-radius:5px;
+	position: relative;
+	top: -1900px;
+	left: -631px;
+}
+.color1{
+		background: rgb(229, 76, 60);
+}
+.color2{
+		background: rgb(255, 170, 0);
+}
+.color3{
+		background: 	rgb(253, 253, 0);
+}
+.color4{
+		background: rgb(0, 255, 0);
+}
+.color5{
+		background: rgb(1, 160, 255);
+}
+.color6{
+		background: rgb(144, 0, 255);
+}
+.cola{
+	background: #000;
+	width: 80px;
+	height: 45px;
+	border-radius:20px;
+	border:10px solid #000;
+	position: relative;
+	top: -2080px;
+	left: -335px;
+}
+.cola2{
+	background: #000;
+	width: 50px;
+	height: 50px;
+	border-radius:20px;
+	border:10px solid #000;
+	position: relative;
+	top: -2160px;
+	left: -360px;
+}
+.cola3{
+	background: #000;
+	width: 50px;
+	height: 50px;
+	border-radius:20px;
+	border:10px solid #000;
+	position: relative;
+	top: -2250px;
+	left: -400px;
+}
+.colagris{
+	background: rgb(165,165,165);
+	width: 60px;
+	height: 25px;
+	border-radius:10px;
+	border:10px solid rgb(165,165,165);
+	position: relative;
+	left: -325px;
+	top: -2275px;
+}
+.cola2gris{
+	background:rgb(165,165,165);
+	width: 30px;
+	height: 30px;
+	border-radius:10px;
+	border:10px solid rgb(165,165,165);
+	position: relative;
+	top: -2335px;
+	left: -350px;
+}
+.cola3gris{
+	background: rgb(165,165,165);
+	width: 30px;
+	height: 30px;
+	border-radius:10px;
+	border:10px solid rgb(165,165,165);
+	position: relative;
+	top: -2405px;
+	left: -390px;
+}
+.nariz{
+	background: #000;
+	width: 25px;
+	height: 25px;
+	border-radius:10px;
+	position: relative;
+	top: -2355px;
+	left: 125px;
+}
+.cacheteIzquierdo{
+	background: 	rgb(253, 153, 152);
+	width: 30px;
+	height: 30px;
+	border-radius:10px;
+	position: relative;
+	top: -2390px;
+	left: 215px;
+}
+.cacheteDerecho{
+	background: 	rgb(253, 153, 152);
+	width: 30px;
+	height: 30px;
+	border-radius:10px;
+	position: relative;
+	top: -2420px;
+	left: 20px;
+}
+.rectanguloH{
+	position: relative;
+	background: 	white;
+	width: 50px;
+	height: 15px;
+	border-radius:5px;
+}
+.rectanguloV{
+	position: relative;
+	background: 	white;
+	width: 15px;
+	height: 50px;
+	border-radius:5px;
+}
+.posicion1{
+	top: -2780px;
+	left: -315px;
+}
+.posicion2{
+	top: -2795px;
+	left: -220px;
+}
+.posicion3{
+	top: -2785px;
+	left: -250px;
+}
+.posicion4{
+	top: -2920px;
+	left: -250px;
+}
+.circulo{
+	width: 65px;
+	height: 65px;
+ border-radius: 50%;
+ position: absolute;
+ border: 20px dotted white;
+ right: -60px;
+	bottom: -60px
+	 z-index: -1;
+}
+.posicionCirculo{
+ top: 290px;
+ left: -600px;
+}
+.posicionCirculo2{
+	top: -90px;
+	left: 500px;
+}
+.cubito{
+	position: relative;
+	background: 	white;
+	width: 15px;
+	height: 15px;
+	border-radius:5px;
+}
+.posicionCubito{
+	top: -2390px;
+	left: 500px;
+}
+.posicionCubito2{
+	top: -2890px;
+	left: -500px;
+}
+.posicion5{
+	top: -2400px;
+	left: -110px;
+}
+.posicion6{
+	top: -2415px;
+	left: -10px;
+}
+.posicion7{
+	top: -2400px;
+	left: -45px;
+}
+.posicion8{
+	top: -2540px;
+	left: -45px;
+}
+.posicionCubito3{
+	top: -2527px;
+	left: -45px;
+}
+.posicionCubito4{
+	top: -2500px;
+	left: -300px;
+}
+.posicion9{
+	top: -2680px;
+	left: 300px;
+}
+.posicion10{
+	top: -2695px;
+	left: 365px;
+}
+.posicion11{
+	top: -2695px;
+	left: 350px;
+}
+.posicion12{
+	top: -2810px;
+	left: 350px;
+}
+.posicionCubito5{
+	top: -3224px;
+	left: 220px;
+}
+.posicionCubito7{
+	top: -3210px;
+	left: 220px;
+}
+.posicionCubito8{
+	top: -3240px;
+	left:205px;
+}
+.posicionCubito9{
+	top: -3255px;
+	left:235px;
+}
+.posicionCubito10{
+	top: -3295px;
+	left:55px;
+}
+.posicionCubito11{
+	top: -2730px;
+	left:130px;
+}
+.posicionCubito12{
+	top: -3200px;
+	left:330px;
+}
+.posicionCubito13{
+	top: -3340px;
+	left:560px;
+}
+.posicionCubito14{
+	left:600px;
+	top: -3355px;
+}
+.posicionCubito15{
+	left:580px;
+	top: -3350px;
+}
+.posicionCubito16{
+	left:580px;
+	top: -3405px;
+}
+.posicionCubito17{
+	top: -3070px;
+	left:580px;
+}
+.posicionCubito18{
+	left:560px;
+	top: -3070px;
+}
+.posicionCubito19{
+	left:600px;
+	top: -3085px;
+}
+.posicionCubito20{
+	left:580px;
+	top: -3083px;
+}
+.posicionCubito21{
+	left:380px;
+	top: -3223px;
+}
+.posicionCubito22{
+	left:380px;
+	top: -3183px;
+}
+.posicionCubito23{
+	left:350px;
+	top: -3225px;
+}
+.posicionCubito24{
+	left:410px;
+	top: -3240px;
+}
+.posicionCubito25{
+	left:380px;
+	top: -3253px;
 }
