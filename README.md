@@ -3,5 +3,5 @@ CSS ART, NYAN CAT
 ## Imagen de Referencia
 ![alt text][logo]
 
-[logo]: https://github.com/CristopherBarrios/lab4--WEB/nayn.jpeg "referencia"
+[logo]: https://github.com/CristopherBarrios/lab4--WEB/blob/master/nayn.jpeg "referencia"
 ![alt text](https://github.com/CristopherBarrios/lab4--WEB/nayn.jpeg "referencia")
